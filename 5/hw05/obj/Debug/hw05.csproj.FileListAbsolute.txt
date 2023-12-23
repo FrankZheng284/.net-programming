@@ -1,0 +1,14 @@
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\obj\Debug\hw05.csproj.AssemblyReference.cache
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\obj\Debug\hw05.Properties.Resources.resources
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\obj\Debug\hw05.csproj.GenerateResource.cache
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\obj\Debug\hw05.csproj.CoreCompileInputs.cache
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\bin\Debug\hw05.exe.config
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\bin\Debug\hw05.exe
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\bin\Debug\hw05.pdb
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\obj\Debug\hw05.exe
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\obj\Debug\hw05.pdb
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\bin\Debug\HtmlAgilityPack.dll
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\bin\Debug\HtmlAgilityPack.pdb
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\bin\Debug\HtmlAgilityPack.xml
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\obj\Debug\hw05.Form1.resources
+D:\learning\c#\dotNet\dotNetAssignments\第五次作业\hw05\hw05\obj\Debug\hw05.csproj.CopyComplete

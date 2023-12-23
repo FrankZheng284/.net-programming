@@ -1,0 +1,10 @@
+D:\learning\c#\dotNet\dotNetAssignments\Assignment1\MathProblem\MathProblem\bin\Debug\MathProblem.exe.config
+D:\learning\c#\dotNet\dotNetAssignments\Assignment1\MathProblem\MathProblem\bin\Debug\MathProblem.exe
+D:\learning\c#\dotNet\dotNetAssignments\Assignment1\MathProblem\MathProblem\bin\Debug\MathProblem.pdb
+D:\learning\c#\dotNet\dotNetAssignments\Assignment1\MathProblem\MathProblem\obj\Debug\MathProblem.csproj.AssemblyReference.cache
+D:\learning\c#\dotNet\dotNetAssignments\Assignment1\MathProblem\MathProblem\obj\Debug\MathProblem.Properties.Resources.resources
+D:\learning\c#\dotNet\dotNetAssignments\Assignment1\MathProblem\MathProblem\obj\Debug\MathProblem.csproj.GenerateResource.cache
+D:\learning\c#\dotNet\dotNetAssignments\Assignment1\MathProblem\MathProblem\obj\Debug\MathProblem.csproj.CoreCompileInputs.cache
+D:\learning\c#\dotNet\dotNetAssignments\Assignment1\MathProblem\MathProblem\obj\Debug\MathProblem.exe
+D:\learning\c#\dotNet\dotNetAssignments\Assignment1\MathProblem\MathProblem\obj\Debug\MathProblem.pdb
+D:\learning\c#\dotNet\dotNetAssignments\Assignment1\MathProblem\MathProblem\obj\Debug\MathProblem.Form1.resources
